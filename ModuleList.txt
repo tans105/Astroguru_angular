@@ -1,0 +1,23 @@
+List of modules
+
+1. Horoscope
+2. Janampatri
+3. Compatibilty
+3. Appointment
+    a. Skype
+    b. Telephonic
+    c. Personal
+
+4. FAQ
+5. About
+
+
+
+Dependencies
+
+1. Horoscope- Images,popover
+2. Janampatri- Send mail, bill desk,
+3. Compatibiltiy- Send mail, bill desk
+4. Appointment- Bill Desk, send mail
+5. FAQ- drop down Q/A
+6. About- Ready
