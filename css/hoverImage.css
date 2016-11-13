@@ -7,3 +7,8 @@
     display:block;
     z-index:999;
 }
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
