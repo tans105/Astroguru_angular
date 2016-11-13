@@ -1,0 +1,2 @@
+add ng material to project
+add popover to horoscope
