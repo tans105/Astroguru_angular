@@ -6,7 +6,7 @@ app.controller('HoroscopeCtrl', function($scope){
 
     $scope.popover=function(code){
         console.log(code);
-
+        
 
     }
 
