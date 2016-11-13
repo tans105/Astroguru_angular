@@ -3,4 +3,9 @@
  */
 app.controller('HoroscopeCtrl', function($scope){
     console.log("Horoscope controller reporting on duty");
+
+    $scope.popover=function(code){
+        console.log(code);
+    }
+
 });
