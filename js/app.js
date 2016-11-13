@@ -1,6 +1,7 @@
 
 var app = angular.module('webApp', [
-  'ngRoute'
+  'ngRoute',
+  'ngMaterial'
 ]);
 
 /**
@@ -30,7 +31,9 @@ app.controller('BlogCtrl', function (/* $scope, $location, $http */) {
   console.log("Blog Controller reporting for duty.");
 });
 
-
+app.controller('HoroscopeCtrl', function($scope){
+  console.log("Horoscope controller reporting on duty");
+});
 
 /**
  * Controls all other Pages
