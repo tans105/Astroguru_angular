@@ -35,6 +35,8 @@ app.controller('HoroscopeCtrl', function($scope){
   console.log("Horoscope controller reporting on duty");
 });
 
+
+
 /**
  * Controls all other Pages
  */
