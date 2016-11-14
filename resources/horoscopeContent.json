@@ -1,0 +1,62 @@
+[
+  {
+    "code": "1",
+    "name": "Aries",
+    "content": "Hi I am Aries"
+  },
+  {
+    "code": "2",
+    "name": "Taurus",
+    "content": "Hi I am Taurus"
+  },
+  {
+    "code": "3",
+    "name": "Gemini",
+    "content": "Hi I am Gemini"
+  },
+  {
+    "code": "4",
+    "name": "Cancer",
+    "content": "Hi I am Cancer"
+  },
+  {
+    "code": "5",
+    "name": "Leo",
+    "content": "Hi I am Leo"
+  },
+  {
+    "code": "6",
+    "name": "Virgo",
+    "content": "Hi I am Virgo"
+  },
+  {
+    "code": "7",
+    "name": "Libra",
+    "content": "Hi I am Libra"
+  },
+  {
+    "code": "8",
+    "name": "Scorpio",
+    "content": "Hi I am Scorpio"
+  },
+  {
+    "code": "9",
+    "name": "Sagittarius",
+    "content": "Hi I am Sagittarius"
+  },
+  {
+    "code": "10",
+    "name": "Aquarius",
+    "content": "Hi I am Aquarius"
+  },
+  {
+    "code": "11",
+    "name": "Pisces",
+    "content": "Hi I am Pisces"
+  },
+  {
+    "code": "12",
+    "name": "Capricorn",
+    "content": "Hi I am Capricorn"
+  }
+]
