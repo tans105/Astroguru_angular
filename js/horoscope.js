@@ -37,6 +37,8 @@ app.controller('HoroscopeCtrl', function ($scope, $mdDialog, $http) {
         $scope.code = code;
         $scope.content=zodiacContent;
         $scope.name=zodiacName;
+        $scope.getLike=0;
+        $scope.getDislike=0;
         $scope.hide = function () {
             $mdDialog.hide();
         };
@@ -45,8 +47,11 @@ app.controller('HoroscopeCtrl', function ($scope, $mdDialog, $http) {
             $mdDialog.cancel();
         };
 
-        $scope.answer = function (answer) {
-            $mdDialog.hide(answer);
+        $scope.addLike = function () {
+            $scope.getLike++;
+        };
+        $scope.addDislike = function (answer) {
+            $scope.getDislike++;
         };
     }
 });
